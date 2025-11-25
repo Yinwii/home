@@ -20,9 +20,9 @@
     "link": "https://s.wetag.top/1"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://mtab-fn.wetag.top:4440/"
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://bjtbzwipsckv.ap-northeast-1.clawcloudrun.com/"
   },
   {
     "icon": "Book",
@@ -30,9 +30,9 @@
     "link": "https://nav-nas.wetag.top:4440/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://bjtbzwipsckv.ap-northeast-1.clawcloudrun.com/"
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://mtab-fn.wetag.top:4440/"
   },
   {
     "icon": "LaptopCode",
