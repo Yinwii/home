@@ -81,6 +81,7 @@
   },
   "pnpm": {
     "overrides": {
+      "glob": "^11.0.3",
       "@jridgewell/sourcemap-codec": "^1.5.5",
       "magic-string": "^0.30.21",
       "workbox-build": "^7.3.0",
